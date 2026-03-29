@@ -2,7 +2,7 @@
 
 🚀 Junior Web Developer dari Indonesia  
 🌱 Lagi belajar jadi Fullstack Developer  
-⚡ Suka ngoprek Linux, Cloudflare, dan Web Hosting  
+⚡ Suka ngoprek WSL, Cloudflare, dan Web Hosting  
 🎯 Goal: Build things that actually work  
 
 ---
