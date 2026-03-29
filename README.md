@@ -1,6 +1,6 @@
 # Hi, I'm Mardi! 👋
 
-🚀 Junior Web Developer dari Jakarta, Indonesia  
+🚀 Junior Web Developer dari Indonesia  
 🌱 Lagi belajar jadi Fullstack Developer  
 ⚡ Suka ngoprek Linux, Cloudflare, dan Web Hosting  
 🎯 Goal: Build things that actually work  
